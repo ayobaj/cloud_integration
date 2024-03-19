@@ -19,5 +19,5 @@ MapSec.propTypes = {
 }
 
 export default GoogleApiWrapper({
-    apiKey: 'YOUR_GOOGLE_MAPS_API_KEY'
+    apiKey: ''
 })(MapSec);
